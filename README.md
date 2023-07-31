@@ -1,7 +1,7 @@
 # Sebastián Sanhueza Tapia
 Bienvenido a mi Github, Los proyectos a mostrar a continuación son en los que he creado desde cero o he participado activamente en su desarrollo
 
-##App de reflejos - [Aplicación aquí](https://sukushaing.github.io/Izq-Der/ "Aplicación Multiplataforma de reflejos Izquierda - Derecha")
+## App de reflejos - [Aplicación aquí](https://sukushaing.github.io/Izq-Der/ "Aplicación Multiplataforma de reflejos Izquierda - Derecha")
 Esta aplicación está hecha para mi hermano que en parte de su entrenamiento, necesita voltear hacia la izquierda y derecha de manera aleatoria y con un intervalo de tiempo que pueda modificar, hace exactamente eso, por mi parte le puse un contador de izquierda y derecha solo porque decía que siempre había más de un lado que del otro. La he hecho una app multiplataforma para que la ocupe el y sus alumnos en sus teléfonos de manera offline.
 
 Repositorio aquí 👉 https://github.com/SuKuShaing/Izq-Der
@@ -11,7 +11,7 @@ Las tecnologías usadas son:
 
 .
 
-##Repositorio de los comandos Git y GitHub - [Repo aquí](https://github.com/SuKuShaing/ComandosDeGit "Aplicación Multiplataforma de reflejos Izquierda - Derecha")
+## Repositorio de los comandos Git y GitHub - [Repo aquí](https://github.com/SuKuShaing/ComandosDeGit "Aplicación Multiplataforma de reflejos Izquierda - Derecha")
 Este repositorio lo hice para ir guardando los avances del curso de Git y GitHub de Platzi, lo compartí por si a alguien más le servían mis anotaciones y para mi sorpresa, les ha servido puesto que veo que tiene hartas estrellas y hartos Forks.
 
 Repositorio aquí 👉 https://github.com/SuKuShaing/ComandosDeGit
