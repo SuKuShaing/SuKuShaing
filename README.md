@@ -21,10 +21,17 @@ Este repositorio lo hice para ir guardando los avances del curso de Git y GitHub
 Repositorio aquí 👉 https://github.com/SuKuShaing/ComandosDeGit
 
 .
+
 ## Estos son códigos que hice por los cursos mientras estudio
-![Static Badge](https://img.shields.io/badge/Empezado%3A-Julio_--_23-blue)
+![Static Badge](https://img.shields.io/badge/Empezado%3A-Julio_--_23-violet)
 Juego del cachipun en Python, solo debes ejecutarlo
-aquí 👉 https://github.com/SuKuShaing/Basic_python/blob/main/main.py
+
+Código aquí 👉 https://github.com/SuKuShaing/Basic_python/blob/main/main.py
+
+
+![Static Badge](https://img.shields.io/badge/Empezado%3A-Noviembre_--_22-violet) Juego del Colgado
+
+Repositorio aquí 👉 https://github.com/SuKuShaing/colgado
 
 .
 
