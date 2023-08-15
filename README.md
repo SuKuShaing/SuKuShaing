@@ -24,12 +24,12 @@ Repositorio aquí 👉 https://github.com/SuKuShaing/ComandosDeGit
 
 ## Estos son códigos que hice por los cursos mientras estudio
 ![Static Badge](https://img.shields.io/badge/Empezado%3A-Julio_--_23-violet)
-Juego del cachipun en Python, solo debes ejecutarlo
+Juego del cachipun en Python, solo debes ejecutarlo ![](https://lh3.googleusercontent.com/drive-viewer/AITFw-xvcC0fd0qRIAZi4Xv23qmw-WMmOSUnVk5YcjjEIkwv1HyUrdkZ82QFuQCGy9FcHPnc58WU77K_lwaiP82M-ywXEWtbTA=w1366-h695 "Python")
 
 Código aquí 👉 https://github.com/SuKuShaing/Basic_python/blob/main/main.py
 
 
-![Static Badge](https://img.shields.io/badge/Empezado%3A-Noviembre_--_22-violet) Juego del Colgado
+![Static Badge](https://img.shields.io/badge/Empezado%3A-Noviembre_--_22-violet) Juego del Colgado  ![](https://lh3.googleusercontent.com/drive-viewer/AITFw-xvcC0fd0qRIAZi4Xv23qmw-WMmOSUnVk5YcjjEIkwv1HyUrdkZ82QFuQCGy9FcHPnc58WU77K_lwaiP82M-ywXEWtbTA=w1366-h695 "Python")
 
 Repositorio aquí 👉 https://github.com/SuKuShaing/colgado
 
