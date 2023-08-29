@@ -11,7 +11,7 @@ Repositorio aquí 👉 https://github.com/SuKuShaing/Izq-Der
 
 
 Las tecnologías usadas son:
-![HTML5](https://lh3.googleusercontent.com/drive-viewer/AITFw-zTtDqB0lwGYpCsvUTaUH8Y9HyABWk6gs-pZ2aqWSUmO9ETQhU8jJ5He9u0s7t5YuOPcabU47hgl8AOlKW4INlKaiWsZQ=w1366-h695 "HTML5")  ![CSS](https://lh3.googleusercontent.com/drive-viewer/AITFw-zOUjXxL9B9szlJ_ZGI7CmpE-1YKPmw2RFo2udNYTAdTULaxt68Cvv5ZyF1AnL3jRPXQ7O0Ux7-knYYSm_ewuXP6lswAQ=w1366-h695 "CSS")  ![JavaScript](https://lh3.googleusercontent.com/drive-viewer/AITFw-zOpA_R-IwcIKtaItaFgvOWJvx5cbEKRYAiHegERZ_xhoLBfscGoBiMJp9ueSxkHXTwB2KD9nCxw5pQqBo_gHW-5RWphg=w1366-h695 "JavaScript")  ![PWA](https://lh3.googleusercontent.com/drive-viewer/AITFw-xq8QrcKm7gBFsc8SjoQgrnG1YlLEDKamy8oJpAKHoNz2KV0eVNm42ZlaxF6eOZU2riTUP21Bja6pMutOEI-3rnldLW5g=w1366-h695 "Progressive Web Apps")
+![Figma](https://lh3.googleusercontent.com/drive-viewer/AITFw-x0svc692quUzoRl7qGnyQUtzqOip72GlllDNVRUOdl_SX-8M0d3Gmzwk7r9yCtwyCQQcyGihlTkZMTXJoEzXCU_5yAsA=w1366-h689 "Figma") ![HTML5](https://lh3.googleusercontent.com/drive-viewer/AITFw-zTdqC24sFve23hMuVQ911W42Kwk_njD1euaLcYe7nGpEWq4XcJv_oJ9JgB-E6wb4OWbKWGX8iSGbhI_Ln70hFyRur1Og=w1366-h689 "HTML5")  ![CSS](https://lh3.googleusercontent.com/drive-viewer/AITFw-xaVUIZ_-hPnMrj-TJnJ4-uvn2vKUoHdzrwKCHVs_9WkYTHWb3JYVCA9Jv0shuXBiGho8_vGmF5bHxjBIcNcrIjYaDgBw=w1366-h689 "CSS")  ![JavaScript](https://lh3.googleusercontent.com/drive-viewer/AITFw-wAnt9_Nq85sW7lW5ibGBvecAW2YryAcs52p4HcOkPVgsj0tjKmlj6XpJ8QsQFVjYwqNHSK-_-ChFzy2aYIMz9uDPVhvg=w1366-h689 "JavaScript")  ![PWA](https://lh3.googleusercontent.com/drive-viewer/AITFw-xq8QrcKm7gBFsc8SjoQgrnG1YlLEDKamy8oJpAKHoNz2KV0eVNm42ZlaxF6eOZU2riTUP21Bja6pMutOEI-3rnldLW5g=w1366-h695 "Progressive Web Apps")
 
 .
 
