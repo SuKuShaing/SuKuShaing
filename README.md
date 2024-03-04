@@ -11,7 +11,7 @@ Repositorio aquí 👉 https://github.com/SuKuShaing/Izq-Der
 
 
 Las tecnologías usadas son:
-![Figma](https://lh3.googleusercontent.com/drive-viewer/AITFw-x0svc692quUzoRl7qGnyQUtzqOip72GlllDNVRUOdl_SX-8M0d3Gmzwk7r9yCtwyCQQcyGihlTkZMTXJoEzXCU_5yAsA=w1366-h689 "Figma") ![HTML5](https://lh3.googleusercontent.com/drive-viewer/AITFw-zTdqC24sFve23hMuVQ911W42Kwk_njD1euaLcYe7nGpEWq4XcJv_oJ9JgB-E6wb4OWbKWGX8iSGbhI_Ln70hFyRur1Og=w1366-h689 "HTML5")  ![CSS](https://lh3.googleusercontent.com/drive-viewer/AITFw-xaVUIZ_-hPnMrj-TJnJ4-uvn2vKUoHdzrwKCHVs_9WkYTHWb3JYVCA9Jv0shuXBiGho8_vGmF5bHxjBIcNcrIjYaDgBw=w1366-h689 "CSS")  ![JavaScript](https://lh3.googleusercontent.com/drive-viewer/AITFw-wAnt9_Nq85sW7lW5ibGBvecAW2YryAcs52p4HcOkPVgsj0tjKmlj6XpJ8QsQFVjYwqNHSK-_-ChFzy2aYIMz9uDPVhvg=w1366-h689 "JavaScript")  ![PWA](https://lh3.googleusercontent.com/drive-viewer/AITFw-zbTCTBGQn8aNMBJlzg2HWCZLxy8aMly1Mt4hwajXl9UIMuBsQErCIYHSGfYxrVGTvFgqQf9d9tchZB78ggG7Z9K9VRtw=w1366-h689 "Progressive Web Apps")
+![Figma](https://raw.githubusercontent.com/SuKuShaing/SuKuShaing/main/figma%20(ok).png "Figma") ![HTML5](https://raw.githubusercontent.com/SuKuShaing/SuKuShaing/main/html-5.png "HTML5")  ![CSS](https://raw.githubusercontent.com/SuKuShaing/SuKuShaing/main/css-3.png "CSS")  ![JavaScript](https://raw.githubusercontent.com/SuKuShaing/SuKuShaing/main/js.png "JavaScript")  ![PWA](https://raw.githubusercontent.com/SuKuShaing/SuKuShaing/main/Progressive_Web_Apps_Logo.svg.png "Progressive Web Apps")
 
 .
 
